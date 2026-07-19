@@ -1,0 +1,126 @@
+// #letter{
+
+// padding:100px 20px;
+
+// background:#fff7fb;
+
+// }
+
+// .letter-card{
+
+// max-width:750px;
+
+// margin:auto;
+
+// padding:50px;
+
+// background:white;
+
+// border-radius:20px;
+
+// box-shadow:0 15px 30px rgba(0,0,0,.12);
+
+// }
+
+// .letter-card h1{
+
+// font-family:'Great Vibes';
+
+// font-size:3rem;
+
+// color:#ff4f8b;
+
+// margin-bottom:30px;
+
+// }
+
+// .letter-card p{
+
+// line-height:2;
+
+// font-size:18px;
+
+// }
+
+// .letter-card h3{
+
+// margin-top:40px;
+
+// }
+
+// .letter-card h2{
+
+// margin-top:10px;
+
+// color:#ff4f8b;
+
+// }
+.letter-section{
+
+padding:100px 20px;
+
+background:#fff7fb;
+
+}
+
+.letter-card{
+
+max-width:800px;
+
+margin:auto;
+
+padding:50px;
+
+background:white;
+
+border-radius:20px;
+
+box-shadow:0 15px 30px rgba(0,0,0,.15);
+
+}
+
+.letter-card h1{
+
+text-align:center;
+
+margin-bottom:30px;
+
+font-size:45px;
+
+color:#ff4f8b;
+
+}
+
+.letter-card p{
+
+line-height:2;
+
+font-size:18px;
+
+white-space:pre-line;
+
+}
+
+.letter-card h2{
+
+margin-top:40px;
+
+color:#ff4f8b;
+
+}
+
+@media(max-width:768px){
+
+.letter-card{
+
+padding:30px;
+
+}
+
+.letter-card h1{
+
+font-size:34px;
+
+}
+
+}
